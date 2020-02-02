@@ -1,0 +1,14 @@
+venv*
+*.ipynb
+*.json
+*.log
+*.tox
+*.egg-info/
+.coverage
+.mypy*
+.ipynb_checkpoints
+__pycache__
+build*
+dist*
+.vscode*
+.pytest*
